@@ -1,0 +1,7 @@
+{
+  "name": "auto-cropper",
+  "dependencies": {
+    "sharp": "^0.32.6",
+    "axios": "^1.6.0"
+  }
+}
